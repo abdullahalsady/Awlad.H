@@ -1,60 +1,15 @@
-# Resources
+![Alt Text](./ui%20resources/Assignment-1.png)
 
-* [Programming Hero Github](https://github.com/ProgrammingHero1)
-* [Google Fonts](https://fonts.google.com)
-* [Font Awesome](https://fontawesome.com/)
-* [Figma](https://www.figma.com/files/team/1391520655067727040/recents-and-sharing/recently-viewed?fuid=1391520652875388132)
-* [Pixso](https://pixso.net/app/recent)
+# Awlad.H
 
-#### Essential CSS Styles
+Assignment 1 in my web development course is a skill test on HTML tags and CSS properties.
 
-```CSS
-/* Import Fonts */
+HTML  builds a website's structure, like bricks. CSS  styles it, like paint! Together they make magic ✨
+
+# UI Resources
 
 
-/* Global Style */
+- [**Figma**](./ui%20resources/Assignment-1.fig)
+- [**Fonts**](https://fonts.google.com/?query=Azeret+Mono)
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-a {
-    text-decoration: none;
-    color: inherit;
-}
-
-ul, ol {
-    list-style: none;
-}
-
-img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    
-}
-
-.bg-primary {
-
-}
-
-.bg-secondary {
-
-}
-
-.title {
-
-}
-
-.subtitle {
-
-}
-
-.description {
-
-}
-
-```
 
