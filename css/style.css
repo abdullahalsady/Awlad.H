@@ -215,5 +215,49 @@ img {
     margin-left: 32px;
 }
 
+/* Inspiration Section */
 
+.inspiration-section {
+    width: 1440px;
+    margin: 0 auto;
+}
 
+.inspiration-section-container > .inspiration-section-title {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.inspiration-section-container > .description {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: 0.7;
+    margin-bottom: 48px;
+    border-radius: 16px;
+}
+
+.inspiration-section-container > .inspiration-video-container {
+    width: 1140px;
+    height: 614px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inspiration-section-container iframe {
+    border-radius: 16px;
+}
